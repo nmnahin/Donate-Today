@@ -170,3 +170,56 @@
   line-height: 28px;
   color: #707070;
 }
+/* section-5 style */
+.section-5 {
+  text-align: center;
+}
+.up {
+  margin: 20px 800px 50 800px;
+}
+.up-title {
+  font-weight: 700;
+  font-size: 45px;
+  color: #121212;
+}
+.up-des {
+  line-height: 28px;
+  margin-top: 20px;
+  font-weight: 400;
+  font-size: 18px;
+  color: #707070;
+}
+.down {
+  margin: 50px 600px 80px 600px;
+  padding: 75px 190px;
+  display: flex;
+  justify-content: center;
+  background-color: lightgoldenrodyellow;
+}
+.email {
+  padding: 15px 25px;
+  font-weight: 600px;
+  font-size: 15px;
+  border: none;
+}
+.submit {
+  background-color: rgb(236, 30, 30);
+  color: white;
+  border: none;
+  padding: 15px 25px;
+  font-weight: 600px;
+  font-size: 15px;
+}
+/* Footer style */
+footer {
+  padding: 30px 400px;
+  text-align: center;
+  background: #0b0d17;
+}
+.footer-title {
+  font-size: 34px;
+  color: red;
+}
+.footer-des {
+  color: white;
+}
